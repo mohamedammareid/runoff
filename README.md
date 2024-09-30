@@ -1,0 +1,1 @@
+This program simulates a runoff election where voters rank candidates in order of preference, and rounds of voting continue until one candidate wins by a majority or all remaining candidates are tied.
